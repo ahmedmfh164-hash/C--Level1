@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Named Arguments\bin\Debug\Named Arguments.exe.config
+D:\Programming C#\Course 14\Named Arguments\bin\Debug\Named Arguments.exe
+D:\Programming C#\Course 14\Named Arguments\bin\Debug\Named Arguments.pdb
+D:\Programming C#\Course 14\Named Arguments\obj\Debug\Named Arguments.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Named Arguments\obj\Debug\Named Arguments.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Named Arguments\obj\Debug\Named Arguments.exe
+D:\Programming C#\Course 14\Named Arguments\obj\Debug\Named Arguments.pdb
+D:\Programming C#\Course 14\Named Arguments\obj\Debug\Named Arguments.exe.config

@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\String Interpolation\bin\Debug\String Interpolation.exe.config
+D:\Programming C#\Course 14\String Interpolation\bin\Debug\String Interpolation.exe
+D:\Programming C#\Course 14\String Interpolation\bin\Debug\String Interpolation.pdb
+D:\Programming C#\Course 14\String Interpolation\obj\Debug\String Interpolation.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\String Interpolation\obj\Debug\String Interpolation.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\String Interpolation\obj\Debug\String Interpolation.exe
+D:\Programming C#\Course 14\String Interpolation\obj\Debug\String Interpolation.pdb
+D:\Programming C#\Course 14\String Interpolation\obj\Debug\String Interpolation.exe.config

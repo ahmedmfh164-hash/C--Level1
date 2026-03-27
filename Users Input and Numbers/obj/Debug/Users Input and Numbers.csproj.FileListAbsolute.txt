@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Users Input and Numbers\bin\Debug\Users Input and Numbers.exe.config
+D:\Programming C#\Course 14\Users Input and Numbers\bin\Debug\Users Input and Numbers.exe
+D:\Programming C#\Course 14\Users Input and Numbers\bin\Debug\Users Input and Numbers.pdb
+D:\Programming C#\Course 14\Users Input and Numbers\obj\Debug\Users Input and Numbers.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Users Input and Numbers\obj\Debug\Users Input and Numbers.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Users Input and Numbers\obj\Debug\Users Input and Numbers.exe
+D:\Programming C#\Course 14\Users Input and Numbers\obj\Debug\Users Input and Numbers.pdb
+D:\Programming C#\Course 14\Users Input and Numbers\obj\Debug\Users Input and Numbers.exe.config

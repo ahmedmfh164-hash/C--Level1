@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Implicitly Typed Variables\bin\Debug\Implicitly Typed Variables.exe.config
+D:\Programming C#\Course 14\Implicitly Typed Variables\bin\Debug\Implicitly Typed Variables.exe
+D:\Programming C#\Course 14\Implicitly Typed Variables\bin\Debug\Implicitly Typed Variables.pdb
+D:\Programming C#\Course 14\Implicitly Typed Variables\obj\Debug\Implicitly Typed Variables.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Implicitly Typed Variables\obj\Debug\Implicitly Typed Variables.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Implicitly Typed Variables\obj\Debug\Implicitly Typed Variables.exe
+D:\Programming C#\Course 14\Implicitly Typed Variables\obj\Debug\Implicitly Typed Variables.pdb

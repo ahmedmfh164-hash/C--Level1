@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox,RadioButton,GroupBox,and Tag", "CheckBox,RadioButton,GroupBox,and Tag.csproj", "{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EE917E-A20D-4BF7-8DF7-5AE543516D14}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Numbers Datatypes\bin\Debug\Numbers Datatypes.exe.config
+D:\Programming C#\Course 14\Numbers Datatypes\bin\Debug\Numbers Datatypes.exe
+D:\Programming C#\Course 14\Numbers Datatypes\bin\Debug\Numbers Datatypes.pdb
+D:\Programming C#\Course 14\Numbers Datatypes\obj\Debug\Numbers Datatypes.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Numbers Datatypes\obj\Debug\Numbers Datatypes.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Numbers Datatypes\obj\Debug\Numbers Datatypes.exe
+D:\Programming C#\Course 14\Numbers Datatypes\obj\Debug\Numbers Datatypes.pdb

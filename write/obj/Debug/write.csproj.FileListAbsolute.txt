@@ -1,0 +1,8 @@
+D:\Programming C#\write\bin\Debug\write.exe.config
+D:\Programming C#\write\bin\Debug\write.exe
+D:\Programming C#\write\bin\Debug\write.pdb
+D:\Programming C#\write\obj\Debug\write.csproj.AssemblyReference.cache
+D:\Programming C#\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+D:\Programming C#\write\obj\Debug\write.exe
+D:\Programming C#\write\obj\Debug\write.pdb
+D:\Programming C#\write\obj\Debug\write.exe.config

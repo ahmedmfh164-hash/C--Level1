@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Anonymous Type\bin\Debug\Anonymous Type.exe.config
+D:\Programming C#\Course 14\Anonymous Type\bin\Debug\Anonymous Type.exe
+D:\Programming C#\Course 14\Anonymous Type\bin\Debug\Anonymous Type.pdb
+D:\Programming C#\Course 14\Anonymous Type\obj\Debug\Anonymous Type.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Anonymous Type\obj\Debug\Anonymous Type.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Anonymous Type\obj\Debug\Anonymous Type.exe
+D:\Programming C#\Course 14\Anonymous Type\obj\Debug\Anonymous Type.pdb
+D:\Programming C#\Course 14\Anonymous Type\obj\Debug\Anonymous Type.exe.config

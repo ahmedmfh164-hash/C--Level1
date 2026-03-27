@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\TrackBar\bin\Debug\TrackBar.exe.config
+D:\Programming C#\Course 14\TrackBar\bin\Debug\TrackBar.exe
+D:\Programming C#\Course 14\TrackBar\bin\Debug\TrackBar.pdb
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.Form1.resources
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.exe
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.pdb
+D:\Programming C#\Course 14\TrackBar\obj\Debug\TrackBar.exe.config

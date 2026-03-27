@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Time Span\bin\Debug\Time Span.exe.config
+D:\Programming C#\Course 14\Time Span\bin\Debug\Time Span.exe
+D:\Programming C#\Course 14\Time Span\bin\Debug\Time Span.pdb
+D:\Programming C#\Course 14\Time Span\obj\Debug\Time Span.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Time Span\obj\Debug\Time Span.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Time Span\obj\Debug\Time Span.exe
+D:\Programming C#\Course 14\Time Span\obj\Debug\Time Span.pdb

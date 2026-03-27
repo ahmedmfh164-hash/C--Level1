@@ -1,0 +1,8 @@
+D:\Programming C#\Vairables\bin\Debug\Vairables.exe.config
+D:\Programming C#\Vairables\bin\Debug\Vairables.exe
+D:\Programming C#\Vairables\bin\Debug\Vairables.pdb
+D:\Programming C#\Vairables\obj\Debug\Vairables.csproj.AssemblyReference.cache
+D:\Programming C#\Vairables\obj\Debug\Vairables.csproj.CoreCompileInputs.cache
+D:\Programming C#\Vairables\obj\Debug\Vairables.exe
+D:\Programming C#\Vairables\obj\Debug\Vairables.pdb
+D:\Programming C#\Vairables\obj\Debug\Vairables.exe.config

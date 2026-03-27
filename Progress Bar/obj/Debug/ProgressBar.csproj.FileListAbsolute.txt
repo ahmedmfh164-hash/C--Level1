@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Progress Bar\bin\Debug\Progress Bar.exe.config
+D:\Programming C#\Course 14\Progress Bar\bin\Debug\Progress Bar.exe
+D:\Programming C#\Course 14\Progress Bar\bin\Debug\Progress Bar.pdb
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\Progress_Bar.Form1.resources
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\Progress_Bar.Properties.Resources.resources
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\Progress Bar.exe
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\Progress Bar.pdb
+D:\Programming C#\Course 14\Progress Bar\obj\Debug\Progress Bar.exe.config

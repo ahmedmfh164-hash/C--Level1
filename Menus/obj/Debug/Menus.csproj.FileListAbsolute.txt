@@ -1,0 +1,12 @@
+D:\Programming C#\Course 14\Menus\bin\Debug\Menus.exe.config
+D:\Programming C#\Course 14\Menus\bin\Debug\Menus.exe
+D:\Programming C#\Course 14\Menus\bin\Debug\Menus.pdb
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.Form1.resources
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.Properties.Resources.resources
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.exe
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.pdb
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.exe.config
+D:\Programming C#\Course 14\Menus\obj\Debug\Menus.Form2.resources

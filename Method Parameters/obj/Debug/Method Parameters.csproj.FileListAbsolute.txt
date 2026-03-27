@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Method Parameters\obj\Debug\Method Parameters.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Method Parameters\obj\Debug\Method Parameters.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Method Parameters\bin\Debug\Method Parameters.exe.config
+D:\Programming C#\Course 14\Method Parameters\bin\Debug\Method Parameters.exe
+D:\Programming C#\Course 14\Method Parameters\bin\Debug\Method Parameters.pdb
+D:\Programming C#\Course 14\Method Parameters\obj\Debug\Method Parameters.exe
+D:\Programming C#\Course 14\Method Parameters\obj\Debug\Method Parameters.pdb

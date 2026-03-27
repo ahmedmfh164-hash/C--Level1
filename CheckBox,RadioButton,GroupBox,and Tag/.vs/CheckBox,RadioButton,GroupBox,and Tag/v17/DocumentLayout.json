@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}|CheckBox,RadioButton,GroupBox,and Tag.csproj|D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}|CheckBox,RadioButton,GroupBox,and Tag.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}|CheckBox,RadioButton,GroupBox,and Tag.csproj|d:\\programming c#\\course 14\\checkbox,radiobutton,groupbox,and tag\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A26A4F6C-DC63-4923-91DE-41B1F7CC0CAD}|CheckBox,RadioButton,GroupBox,and Tag.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:59:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming C#\\Course 14\\CheckBox,RadioButton,GroupBox,and Tag\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:56:30.635Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

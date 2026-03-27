@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\GroupBox vs Panel\bin\Debug\GroupBox vs Panel.exe.config
+D:\Programming C#\Course 14\GroupBox vs Panel\bin\Debug\GroupBox vs Panel.exe
+D:\Programming C#\Course 14\GroupBox vs Panel\bin\Debug\GroupBox vs Panel.pdb
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox_vs_Panel.Form1.resources
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox_vs_Panel.Properties.Resources.resources
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.exe
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.pdb
+D:\Programming C#\Course 14\GroupBox vs Panel\obj\Debug\GroupBox vs Panel.exe.config

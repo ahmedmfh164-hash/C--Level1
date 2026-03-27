@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Picture Box Exercise\bin\Debug\Picture Box Exercise.exe.config
+D:\Programming C#\Course 14\Picture Box Exercise\bin\Debug\Picture Box Exercise.exe
+D:\Programming C#\Course 14\Picture Box Exercise\bin\Debug\Picture Box Exercise.pdb
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture_Box_Exercise.Form1.resources
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture_Box_Exercise.Properties.Resources.resources
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.exe
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.pdb
+D:\Programming C#\Course 14\Picture Box Exercise\obj\Debug\Picture Box Exercise.exe.config

@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Explicit Casting\bin\Debug\Explicit Casting.exe.config
+D:\Programming C#\Course 14\Explicit Casting\bin\Debug\Explicit Casting.exe
+D:\Programming C#\Course 14\Explicit Casting\bin\Debug\Explicit Casting.pdb
+D:\Programming C#\Course 14\Explicit Casting\obj\Debug\Explicit Casting.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Explicit Casting\obj\Debug\Explicit Casting.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Explicit Casting\obj\Debug\Explicit Casting.exe
+D:\Programming C#\Course 14\Explicit Casting\obj\Debug\Explicit Casting.pdb

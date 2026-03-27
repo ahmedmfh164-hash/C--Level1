@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Dynamic Type\bin\Debug\Dynamic Type.exe.config
+D:\Programming C#\Course 14\Dynamic Type\bin\Debug\Dynamic Type.exe
+D:\Programming C#\Course 14\Dynamic Type\bin\Debug\Dynamic Type.pdb
+D:\Programming C#\Course 14\Dynamic Type\obj\Debug\Dynamic Type.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Dynamic Type\obj\Debug\Dynamic Type.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Dynamic Type\obj\Debug\Dynamic Type.exe
+D:\Programming C#\Course 14\Dynamic Type\obj\Debug\Dynamic Type.pdb
+D:\Programming C#\Course 14\Dynamic Type\obj\Debug\Dynamic Type.exe.config

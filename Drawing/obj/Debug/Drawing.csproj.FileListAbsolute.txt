@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Drawing\bin\Debug\Drawing.exe.config
+D:\Programming C#\Course 14\Drawing\bin\Debug\Drawing.exe
+D:\Programming C#\Course 14\Drawing\bin\Debug\Drawing.pdb
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.Form1.resources
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.exe
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.pdb
+D:\Programming C#\Course 14\Drawing\obj\Debug\Drawing.exe.config

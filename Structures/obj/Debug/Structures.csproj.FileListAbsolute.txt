@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Structures\bin\Debug\Structures.exe.config
+D:\Programming C#\Course 14\Structures\bin\Debug\Structures.exe
+D:\Programming C#\Course 14\Structures\bin\Debug\Structures.pdb
+D:\Programming C#\Course 14\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Structures\obj\Debug\Structures.exe
+D:\Programming C#\Course 14\Structures\obj\Debug\Structures.pdb
+D:\Programming C#\Course 14\Structures\obj\Debug\Structures.exe.config

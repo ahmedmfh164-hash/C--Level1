@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Type Conversion Methods\bin\Debug\Type Conversion Methods.exe.config
+D:\Programming C#\Course 14\Type Conversion Methods\bin\Debug\Type Conversion Methods.exe
+D:\Programming C#\Course 14\Type Conversion Methods\bin\Debug\Type Conversion Methods.pdb
+D:\Programming C#\Course 14\Type Conversion Methods\obj\Debug\Type Conversion Methods.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Type Conversion Methods\obj\Debug\Type Conversion Methods.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Type Conversion Methods\obj\Debug\Type Conversion Methods.exe
+D:\Programming C#\Course 14\Type Conversion Methods\obj\Debug\Type Conversion Methods.pdb
+D:\Programming C#\Course 14\Type Conversion Methods\obj\Debug\Type Conversion Methods.exe.config

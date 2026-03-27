@@ -1,0 +1,16 @@
+D:\Programming C#\Escape Characters\bin\Debug\Escape Characters.exe.config
+D:\Programming C#\Escape Characters\bin\Debug\Escape Characters.exe
+D:\Programming C#\Escape Characters\bin\Debug\Escape Characters.pdb
+D:\Programming C#\Escape Characters\obj\Debug\Escape Characters.csproj.AssemblyReference.cache
+D:\Programming C#\Escape Characters\obj\Debug\Escape Characters.csproj.CoreCompileInputs.cache
+D:\Programming C#\Escape Characters\obj\Debug\Escape Characters.exe
+D:\Programming C#\Escape Characters\obj\Debug\Escape Characters.pdb
+D:\Programming C#\Escape Characters\obj\Debug\Escape Characters.exe.config
+D:\Programming C#\Course 14\Escape Characters\bin\Debug\Escape Characters.exe.config
+D:\Programming C#\Course 14\Escape Characters\bin\Debug\Escape Characters.exe
+D:\Programming C#\Course 14\Escape Characters\bin\Debug\Escape Characters.pdb
+D:\Programming C#\Course 14\Escape Characters\obj\Debug\Escape Characters.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Escape Characters\obj\Debug\Escape Characters.exe.config
+D:\Programming C#\Course 14\Escape Characters\obj\Debug\Escape Characters.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Escape Characters\obj\Debug\Escape Characters.exe
+D:\Programming C#\Course 14\Escape Characters\obj\Debug\Escape Characters.pdb

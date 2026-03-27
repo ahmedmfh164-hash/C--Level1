@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Casting Enums\bin\Debug\Casting Enums.exe.config
+D:\Programming C#\Course 14\Casting Enums\bin\Debug\Casting Enums.exe
+D:\Programming C#\Course 14\Casting Enums\bin\Debug\Casting Enums.pdb
+D:\Programming C#\Course 14\Casting Enums\obj\Debug\Casting Enums.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Casting Enums\obj\Debug\Casting Enums.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Casting Enums\obj\Debug\Casting Enums.exe
+D:\Programming C#\Course 14\Casting Enums\obj\Debug\Casting Enums.pdb
+D:\Programming C#\Course 14\Casting Enums\obj\Debug\Casting Enums.exe.config

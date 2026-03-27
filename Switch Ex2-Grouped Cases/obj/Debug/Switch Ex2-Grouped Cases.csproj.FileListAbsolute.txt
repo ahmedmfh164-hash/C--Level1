@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\bin\Debug\Switch Ex2-Grouped Cases.exe.config
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\bin\Debug\Switch Ex2-Grouped Cases.exe
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\bin\Debug\Switch Ex2-Grouped Cases.pdb
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\obj\Debug\Switch Ex2-Grouped Cases.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\obj\Debug\Switch Ex2-Grouped Cases.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\obj\Debug\Switch Ex2-Grouped Cases.exe
+D:\Programming C#\Course 14\Switch Ex2-Grouped Cases\obj\Debug\Switch Ex2-Grouped Cases.pdb

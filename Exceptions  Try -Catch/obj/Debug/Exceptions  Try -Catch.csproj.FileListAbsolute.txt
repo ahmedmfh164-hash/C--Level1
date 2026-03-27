@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Exceptions  Try -Catch\bin\Debug\Exceptions  Try -Catch.exe.config
+D:\Programming C#\Course 14\Exceptions  Try -Catch\bin\Debug\Exceptions  Try -Catch.exe
+D:\Programming C#\Course 14\Exceptions  Try -Catch\bin\Debug\Exceptions  Try -Catch.pdb
+D:\Programming C#\Course 14\Exceptions  Try -Catch\obj\Debug\Exceptions  Try -Catch.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Exceptions  Try -Catch\obj\Debug\Exceptions  Try -Catch.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Exceptions  Try -Catch\obj\Debug\Exceptions  Try -Catch.exe
+D:\Programming C#\Course 14\Exceptions  Try -Catch\obj\Debug\Exceptions  Try -Catch.pdb
+D:\Programming C#\Course 14\Exceptions  Try -Catch\obj\Debug\Exceptions  Try -Catch.exe.config

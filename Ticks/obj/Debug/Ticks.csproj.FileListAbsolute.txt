@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Ticks\obj\Debug\Ticks.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Ticks\obj\Debug\Ticks.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Ticks\bin\Debug\Ticks.exe.config
+D:\Programming C#\Course 14\Ticks\bin\Debug\Ticks.exe
+D:\Programming C#\Course 14\Ticks\bin\Debug\Ticks.pdb
+D:\Programming C#\Course 14\Ticks\obj\Debug\Ticks.exe
+D:\Programming C#\Course 14\Ticks\obj\Debug\Ticks.pdb
+D:\Programming C#\Course 14\Ticks\obj\Debug\Ticks.exe.config

@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Foreach Loop\bin\Debug\Foreach Loop.exe.config
+D:\Programming C#\Course 14\Foreach Loop\bin\Debug\Foreach Loop.exe
+D:\Programming C#\Course 14\Foreach Loop\bin\Debug\Foreach Loop.pdb
+D:\Programming C#\Course 14\Foreach Loop\obj\Debug\Foreach Loop.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Foreach Loop\obj\Debug\Foreach Loop.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Foreach Loop\obj\Debug\Foreach Loop.exe
+D:\Programming C#\Course 14\Foreach Loop\obj\Debug\Foreach Loop.pdb

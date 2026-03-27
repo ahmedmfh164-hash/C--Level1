@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Switch Ex4-String Compare\bin\Debug\Switch Ex4-String Compare.exe.config
+D:\Programming C#\Course 14\Switch Ex4-String Compare\bin\Debug\Switch Ex4-String Compare.exe
+D:\Programming C#\Course 14\Switch Ex4-String Compare\bin\Debug\Switch Ex4-String Compare.pdb
+D:\Programming C#\Course 14\Switch Ex4-String Compare\obj\Debug\Switch Ex4-String Compare.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Switch Ex4-String Compare\obj\Debug\Switch Ex4-String Compare.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Switch Ex4-String Compare\obj\Debug\Switch Ex4-String Compare.exe
+D:\Programming C#\Course 14\Switch Ex4-String Compare\obj\Debug\Switch Ex4-String Compare.pdb

@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Get Current DateTime\bin\Debug\Get Current DateTime.exe.config
+D:\Programming C#\Course 14\Get Current DateTime\bin\Debug\Get Current DateTime.exe
+D:\Programming C#\Course 14\Get Current DateTime\bin\Debug\Get Current DateTime.pdb
+D:\Programming C#\Course 14\Get Current DateTime\obj\Debug\Get Current DateTime.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Get Current DateTime\obj\Debug\Get Current DateTime.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Get Current DateTime\obj\Debug\Get Current DateTime.exe
+D:\Programming C#\Course 14\Get Current DateTime\obj\Debug\Get Current DateTime.pdb

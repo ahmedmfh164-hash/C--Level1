@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Masked TextBox\bin\Debug\Masked TextBox.exe.config
+D:\Programming C#\Course 14\Masked TextBox\bin\Debug\Masked TextBox.exe
+D:\Programming C#\Course 14\Masked TextBox\bin\Debug\Masked TextBox.pdb
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked_TextBox.Form1.resources
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked_TextBox.Properties.Resources.resources
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.exe
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.pdb
+D:\Programming C#\Course 14\Masked TextBox\obj\Debug\Masked TextBox.exe.config

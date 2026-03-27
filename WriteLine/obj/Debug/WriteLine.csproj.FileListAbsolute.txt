@@ -1,0 +1,8 @@
+D:\Programming C#\WriteLine\bin\Debug\WriteLine.exe.config
+D:\Programming C#\WriteLine\bin\Debug\WriteLine.exe
+D:\Programming C#\WriteLine\bin\Debug\WriteLine.pdb
+D:\Programming C#\WriteLine\obj\Debug\WriteLine.csproj.AssemblyReference.cache
+D:\Programming C#\WriteLine\obj\Debug\WriteLine.csproj.CoreCompileInputs.cache
+D:\Programming C#\WriteLine\obj\Debug\WriteLine.exe
+D:\Programming C#\WriteLine\obj\Debug\WriteLine.pdb
+D:\Programming C#\WriteLine\obj\Debug\WriteLine.exe.config

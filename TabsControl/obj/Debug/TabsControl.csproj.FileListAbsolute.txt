@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\TabsControl\bin\Debug\TabsControl.exe.config
+D:\Programming C#\Course 14\TabsControl\bin\Debug\TabsControl.exe
+D:\Programming C#\Course 14\TabsControl\bin\Debug\TabsControl.pdb
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.Form1.resources
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.Properties.Resources.resources
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.exe
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.pdb
+D:\Programming C#\Course 14\TabsControl\obj\Debug\TabsControl.exe.config

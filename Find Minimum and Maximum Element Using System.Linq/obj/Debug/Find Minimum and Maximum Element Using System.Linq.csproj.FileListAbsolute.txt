@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\bin\Debug\Find Minimum and Maximum Element Using System.Linq.exe.config
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\bin\Debug\Find Minimum and Maximum Element Using System.Linq.exe
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\bin\Debug\Find Minimum and Maximum Element Using System.Linq.pdb
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\obj\Debug\Find Minimum and Maximum Element Using System.Linq.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\obj\Debug\Find Minimum and Maximum Element Using System.Linq.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\obj\Debug\Find Minimum and Maximum Element Using System.Linq.exe
+D:\Programming C#\Course 14\Find Minimum and Maximum Element Using System.Linq\obj\Debug\Find Minimum and Maximum Element Using System.Linq.pdb

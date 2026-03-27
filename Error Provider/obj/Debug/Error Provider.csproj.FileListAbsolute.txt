@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Error Provider\bin\Debug\Error Provider.exe.config
+D:\Programming C#\Course 14\Error Provider\bin\Debug\Error Provider.exe
+D:\Programming C#\Course 14\Error Provider\bin\Debug\Error Provider.pdb
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error_Provider.Form1.resources
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error_Provider.Properties.Resources.resources
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.exe
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.pdb
+D:\Programming C#\Course 14\Error Provider\obj\Debug\Error Provider.exe.config

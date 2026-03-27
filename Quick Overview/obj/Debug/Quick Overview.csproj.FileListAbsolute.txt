@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Quick Overview\bin\Debug\Quick Overview.exe.config
+D:\Programming C#\Course 14\Quick Overview\bin\Debug\Quick Overview.exe
+D:\Programming C#\Course 14\Quick Overview\bin\Debug\Quick Overview.pdb
+D:\Programming C#\Course 14\Quick Overview\obj\Debug\Quick Overview.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Quick Overview\obj\Debug\Quick Overview.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Quick Overview\obj\Debug\Quick Overview.exe
+D:\Programming C#\Course 14\Quick Overview\obj\Debug\Quick Overview.pdb
+D:\Programming C#\Course 14\Quick Overview\obj\Debug\Quick Overview.exe.config

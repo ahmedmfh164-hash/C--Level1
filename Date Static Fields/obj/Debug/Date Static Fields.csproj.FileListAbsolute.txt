@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Date Static Fields\bin\Debug\Date Static Fields.exe.config
+D:\Programming C#\Course 14\Date Static Fields\bin\Debug\Date Static Fields.exe
+D:\Programming C#\Course 14\Date Static Fields\bin\Debug\Date Static Fields.pdb
+D:\Programming C#\Course 14\Date Static Fields\obj\Debug\Date Static Fields.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Date Static Fields\obj\Debug\Date Static Fields.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Date Static Fields\obj\Debug\Date Static Fields.exe
+D:\Programming C#\Course 14\Date Static Fields\obj\Debug\Date Static Fields.pdb

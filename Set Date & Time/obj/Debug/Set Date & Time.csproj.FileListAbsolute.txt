@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Set Date & Time\bin\Debug\Set Date & Time.exe.config
+D:\Programming C#\Course 14\Set Date & Time\bin\Debug\Set Date & Time.exe
+D:\Programming C#\Course 14\Set Date & Time\bin\Debug\Set Date & Time.pdb
+D:\Programming C#\Course 14\Set Date & Time\obj\Debug\Set Date & Time.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Set Date & Time\obj\Debug\Set Date & Time.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Set Date & Time\obj\Debug\Set Date & Time.exe
+D:\Programming C#\Course 14\Set Date & Time\obj\Debug\Set Date & Time.pdb
+D:\Programming C#\Course 14\Set Date & Time\obj\Debug\Set Date & Time.exe.config

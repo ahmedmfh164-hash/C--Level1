@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\bin\Debug\Switch Ex3-Simple Calculator.exe.config
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\bin\Debug\Switch Ex3-Simple Calculator.exe
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\bin\Debug\Switch Ex3-Simple Calculator.pdb
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\obj\Debug\Switch Ex3-Simple Calculator.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\obj\Debug\Switch Ex3-Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\obj\Debug\Switch Ex3-Simple Calculator.exe
+D:\Programming C#\Course 14\Switch Ex3-Simple Calculator\obj\Debug\Switch Ex3-Simple Calculator.pdb

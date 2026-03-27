@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\2 Dimensional Array\bin\Debug\2 Dimensional Array.exe.config
+D:\Programming C#\Course 14\2 Dimensional Array\bin\Debug\2 Dimensional Array.exe
+D:\Programming C#\Course 14\2 Dimensional Array\bin\Debug\2 Dimensional Array.pdb
+D:\Programming C#\Course 14\2 Dimensional Array\obj\Debug\2 Dimensional Array.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\2 Dimensional Array\obj\Debug\2 Dimensional Array.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\2 Dimensional Array\obj\Debug\2 Dimensional Array.exe
+D:\Programming C#\Course 14\2 Dimensional Array\obj\Debug\2 Dimensional Array.pdb

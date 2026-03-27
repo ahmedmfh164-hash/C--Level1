@@ -1,0 +1,13 @@
+D:\Programming C#\Course 14\Message Box\bin\Debug\Message Box.exe.config
+D:\Programming C#\Course 14\Message Box\bin\Debug\Message Box.exe
+D:\Programming C#\Course 14\Message Box\bin\Debug\Message Box.pdb
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message_Box.Form1.resources
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message_Box.Properties.Resources.resources
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.exe
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.pdb
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message Box.exe.config
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message_Box.frmMessageBox.resources
+D:\Programming C#\Course 14\Message Box\obj\Debug\Message_Box.newForm.resources

@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+D:\Programming C#\Course 14\NumericUpDown\bin\Debug\NumericUpDown.exe
+D:\Programming C#\Course 14\NumericUpDown\bin\Debug\NumericUpDown.pdb
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.exe
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.pdb
+D:\Programming C#\Course 14\NumericUpDown\obj\Debug\NumericUpDown.exe.config

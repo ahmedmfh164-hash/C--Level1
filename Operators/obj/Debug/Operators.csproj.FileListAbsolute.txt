@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Operators\bin\Debug\Operators.exe.config
+D:\Programming C#\Course 14\Operators\bin\Debug\Operators.exe
+D:\Programming C#\Course 14\Operators\bin\Debug\Operators.pdb
+D:\Programming C#\Course 14\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Operators\obj\Debug\Operators.exe
+D:\Programming C#\Course 14\Operators\obj\Debug\Operators.pdb
+D:\Programming C#\Course 14\Operators\obj\Debug\Operators.exe.config

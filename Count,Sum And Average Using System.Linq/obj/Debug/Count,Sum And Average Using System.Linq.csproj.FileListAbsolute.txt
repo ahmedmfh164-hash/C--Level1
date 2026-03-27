@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\bin\Debug\Count,Sum And Average Using System.Linq.exe.config
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\bin\Debug\Count,Sum And Average Using System.Linq.exe
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\bin\Debug\Count,Sum And Average Using System.Linq.pdb
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\obj\Debug\Count,Sum And Average Using System.Linq.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\obj\Debug\Count,Sum And Average Using System.Linq.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\obj\Debug\Count,Sum And Average Using System.Linq.exe
+D:\Programming C#\Course 14\Count,Sum And Average Using System.Linq\obj\Debug\Count,Sum And Average Using System.Linq.pdb

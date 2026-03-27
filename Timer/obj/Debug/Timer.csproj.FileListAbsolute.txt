@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Timer\bin\Debug\Timer.exe.config
+D:\Programming C#\Course 14\Timer\bin\Debug\Timer.exe
+D:\Programming C#\Course 14\Timer\bin\Debug\Timer.pdb
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.Form1.resources
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.exe
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.pdb
+D:\Programming C#\Course 14\Timer\obj\Debug\Timer.exe.config

@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\C# Math\obj\Debug\C# Math.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\C# Math\obj\Debug\C# Math.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\C# Math\bin\Debug\C# Math.exe.config
+D:\Programming C#\Course 14\C# Math\bin\Debug\C# Math.exe
+D:\Programming C#\Course 14\C# Math\bin\Debug\C# Math.pdb
+D:\Programming C#\Course 14\C# Math\obj\Debug\C# Math.exe
+D:\Programming C#\Course 14\C# Math\obj\Debug\C# Math.pdb
+D:\Programming C#\Course 14\C# Math\obj\Debug\C# Math.exe.config

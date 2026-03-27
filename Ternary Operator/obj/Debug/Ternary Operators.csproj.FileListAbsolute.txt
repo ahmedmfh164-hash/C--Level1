@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\Ternary Operator\bin\Debug\Arithmetic Operators.exe.config
+D:\Programming C#\Course 14\Ternary Operator\bin\Debug\Arithmetic Operators.exe
+D:\Programming C#\Course 14\Ternary Operator\bin\Debug\Arithmetic Operators.pdb
+D:\Programming C#\Course 14\Ternary Operator\obj\Debug\Ternary Operators.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Ternary Operator\obj\Debug\Ternary Operators.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Ternary Operator\obj\Debug\Arithmetic Operators.exe
+D:\Programming C#\Course 14\Ternary Operator\obj\Debug\Arithmetic Operators.pdb

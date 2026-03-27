@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\bin\Debug\Multiple Documents Interface (MDI).exe.config
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\bin\Debug\Multiple Documents Interface (MDI).exe
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\bin\Debug\Multiple Documents Interface (MDI).pdb
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple_Documents_Interface__MDI_.Form1.resources
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple_Documents_Interface__MDI_.Properties.Resources.resources
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).exe
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).pdb
+D:\Programming C#\Course 14\Multiple Documents Interface (MDI)\obj\Debug\Multiple Documents Interface (MDI).exe.config

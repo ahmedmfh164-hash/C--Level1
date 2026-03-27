@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Default Values\bin\Debug\Default Values.exe.config
+D:\Programming C#\Course 14\Default Values\bin\Debug\Default Values.exe
+D:\Programming C#\Course 14\Default Values\bin\Debug\Default Values.pdb
+D:\Programming C#\Course 14\Default Values\obj\Debug\Default Values.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Default Values\obj\Debug\Default Values.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Default Values\obj\Debug\Default Values.exe
+D:\Programming C#\Course 14\Default Values\obj\Debug\Default Values.pdb
+D:\Programming C#\Course 14\Default Values\obj\Debug\Default Values.exe.config

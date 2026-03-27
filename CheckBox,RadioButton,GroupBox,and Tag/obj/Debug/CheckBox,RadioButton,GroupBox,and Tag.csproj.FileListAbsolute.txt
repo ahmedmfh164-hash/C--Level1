@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\bin\Debug\CheckBox,RadioButton,GroupBox,and Tag.exe.config
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\bin\Debug\CheckBox,RadioButton,GroupBox,and Tag.exe
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\bin\Debug\CheckBox,RadioButton,GroupBox,and Tag.pdb
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox_RadioButton_GroupBox_and_Tag.Properties.Resources.resources
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.exe
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.pdb
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox,RadioButton,GroupBox,and Tag.exe.config
+D:\Programming C#\Course 14\CheckBox,RadioButton,GroupBox,and Tag\obj\Debug\CheckBox_RadioButton_GroupBox_and_Tag.frmCheckRadioGroup.resources

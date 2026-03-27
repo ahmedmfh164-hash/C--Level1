@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color_Dialog.Form1.resources
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color_Dialog.Properties.Resources.resources
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Color Dialog\bin\Debug\Color Dialog.exe.config
+D:\Programming C#\Course 14\Color Dialog\bin\Debug\Color Dialog.exe
+D:\Programming C#\Course 14\Color Dialog\bin\Debug\Color Dialog.pdb
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.exe
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.pdb
+D:\Programming C#\Course 14\Color Dialog\obj\Debug\Color Dialog.exe.config

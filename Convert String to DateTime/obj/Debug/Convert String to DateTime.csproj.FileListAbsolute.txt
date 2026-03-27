@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Convert String to DateTime\bin\Debug\Convert String to DateTime.exe.config
+D:\Programming C#\Course 14\Convert String to DateTime\bin\Debug\Convert String to DateTime.exe
+D:\Programming C#\Course 14\Convert String to DateTime\bin\Debug\Convert String to DateTime.pdb
+D:\Programming C#\Course 14\Convert String to DateTime\obj\Debug\Convert String to DateTime.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Convert String to DateTime\obj\Debug\Convert String to DateTime.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Convert String to DateTime\obj\Debug\Convert String to DateTime.exe
+D:\Programming C#\Course 14\Convert String to DateTime\obj\Debug\Convert String to DateTime.pdb
+D:\Programming C#\Course 14\Convert String to DateTime\obj\Debug\Convert String to DateTime.exe.config

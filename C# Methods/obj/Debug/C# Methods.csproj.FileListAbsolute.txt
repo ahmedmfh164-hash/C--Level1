@@ -1,0 +1,7 @@
+D:\Programming C#\Course 14\C# Methods\obj\Debug\C# Methods.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\C# Methods\obj\Debug\C# Methods.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\C# Methods\bin\Debug\C# Methods.exe.config
+D:\Programming C#\Course 14\C# Methods\bin\Debug\C# Methods.exe
+D:\Programming C#\Course 14\C# Methods\bin\Debug\C# Methods.pdb
+D:\Programming C#\Course 14\C# Methods\obj\Debug\C# Methods.exe
+D:\Programming C#\Course 14\C# Methods\obj\Debug\C# Methods.pdb

@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\My First WinForm Project\bin\Debug\My First WinForm Project.exe.config
+D:\Programming C#\Course 14\My First WinForm Project\bin\Debug\My First WinForm Project.exe
+D:\Programming C#\Course 14\My First WinForm Project\bin\Debug\My First WinForm Project.pdb
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My_First_WinForm_Project.Properties.Resources.resources
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.exe
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.pdb
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My First WinForm Project.exe.config
+D:\Programming C#\Course 14\My First WinForm Project\obj\Debug\My_First_WinForm_Project.Form1.resources

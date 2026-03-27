@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Assignment Operators\bin\Debug\Assignment Operators.exe.config
+D:\Programming C#\Course 14\Assignment Operators\bin\Debug\Assignment Operators.exe
+D:\Programming C#\Course 14\Assignment Operators\bin\Debug\Assignment Operators.pdb
+D:\Programming C#\Course 14\Assignment Operators\obj\Debug\Assignment Operators.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Assignment Operators\obj\Debug\Assignment Operators.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Assignment Operators\obj\Debug\Assignment Operators.exe
+D:\Programming C#\Course 14\Assignment Operators\obj\Debug\Assignment Operators.pdb
+D:\Programming C#\Course 14\Assignment Operators\obj\Debug\Assignment Operators.exe.config

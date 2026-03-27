@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\Link Label\bin\Debug\Link Label.exe.config
+D:\Programming C#\Course 14\Link Label\bin\Debug\Link Label.exe
+D:\Programming C#\Course 14\Link Label\bin\Debug\Link Label.pdb
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link_Label.Form1.resources
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link_Label.Properties.Resources.resources
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.exe
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.pdb
+D:\Programming C#\Course 14\Link Label\obj\Debug\Link Label.exe.config

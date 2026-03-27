@@ -1,0 +1,11 @@
+D:\Programming C#\Course 14\NotifyIcon\bin\Debug\NotifyIcon.exe.config
+D:\Programming C#\Course 14\NotifyIcon\bin\Debug\NotifyIcon.exe
+D:\Programming C#\Course 14\NotifyIcon\bin\Debug\NotifyIcon.pdb
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.Form1.resources
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.Properties.Resources.resources
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.csproj.GenerateResource.cache
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.exe
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.pdb
+D:\Programming C#\Course 14\NotifyIcon\obj\Debug\NotifyIcon.exe.config

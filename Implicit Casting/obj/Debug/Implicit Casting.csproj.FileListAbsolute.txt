@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Implicit Casting\bin\Debug\Implicit Casting.exe.config
+D:\Programming C#\Course 14\Implicit Casting\bin\Debug\Implicit Casting.exe
+D:\Programming C#\Course 14\Implicit Casting\bin\Debug\Implicit Casting.pdb
+D:\Programming C#\Course 14\Implicit Casting\obj\Debug\Implicit Casting.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Implicit Casting\obj\Debug\Implicit Casting.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Implicit Casting\obj\Debug\Implicit Casting.exe
+D:\Programming C#\Course 14\Implicit Casting\obj\Debug\Implicit Casting.pdb
+D:\Programming C#\Course 14\Implicit Casting\obj\Debug\Implicit Casting.exe.config

@@ -1,0 +1,8 @@
+D:\Programming C#\Course 14\Enums\bin\Debug\Enums.exe.config
+D:\Programming C#\Course 14\Enums\bin\Debug\Enums.exe
+D:\Programming C#\Course 14\Enums\bin\Debug\Enums.pdb
+D:\Programming C#\Course 14\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+D:\Programming C#\Course 14\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+D:\Programming C#\Course 14\Enums\obj\Debug\Enums.exe
+D:\Programming C#\Course 14\Enums\obj\Debug\Enums.pdb
+D:\Programming C#\Course 14\Enums\obj\Debug\Enums.exe.config
